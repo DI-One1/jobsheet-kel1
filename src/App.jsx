@@ -35,7 +35,7 @@ function App() {
   return (
     <main className="container">
       <header>
-        <p className="subtitle">PRAKTIK REACT JS</p>
+        <p className="subtitle">PRAKTIK REACT JS kel1 di hack Akbar</p>
         <h1>Daftar Pengguna</h1>
         <p>
           Data pengguna yang diambil secara langsung

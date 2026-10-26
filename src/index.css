@@ -41,7 +41,7 @@ header h1 {
   font-size: 36px;
 }
 
-header > p:last-child {
+header>p:last-child {
   color: #64748b;
   line-height: 1.6;
 }
@@ -69,7 +69,7 @@ header > p:last-child {
 .summary {
   padding: 12px;
   background: #eef2ff;
-  color: #4263eb;
+  color: #ec2c2c;
   border-radius: 8px;
 }
 
@@ -92,7 +92,7 @@ header > p:last-child {
   height: 44px;
   border-radius: 10px;
   background: #e0e7ff;
-  color: #4263eb;
+  color: #a31515;
   font-size: 20px;
   font-weight: bold;
 }
@@ -101,8 +101,8 @@ header > p:last-child {
   margin-bottom: 5px;
 }
 
-.user-card > p {
-  color: #64748b;
+.user-card>p {
+  color: #15c951;
   font-size: 13px;
 }
 
@@ -129,13 +129,13 @@ header > p:last-child {
 .message {
   padding: 40px 0;
   text-align: center;
-  color: #64748b;
+  color: #ff00d4;
 }
 
 .error {
   padding: 16px;
   border-radius: 8px;
-  background: #fff1f2;
+  background: #179ce9;
   color: #be123c;
 }
 
@@ -143,7 +143,7 @@ footer {
   padding-top: 24px;
   text-align: center;
   color: #94a3b8;
-  font-size: 12px;
+  font-size: 20px;
 }
 
 @media (max-width: 600px) {

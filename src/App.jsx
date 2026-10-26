@@ -36,10 +36,10 @@ function App() {
     <main className="container">
       <header>
         <p className="subtitle">PRAKTIK REACT JS kel1 di hack Akbar</p>
-        <h1>Daftar Pengguna</h1>
+        <h1>Daftar Pengguna di hack Akbar</h1>
         <p>
           Data pengguna yang diambil secara langsung
-          dari REST API.
+          dari REST API yg di hack akbar.
         </p>
       </header>
 
@@ -112,7 +112,7 @@ function App() {
         )}
       </section>
 
-      <footer>Jobsheet CSR — Kelompok 1</footer>
+      <footer>Jobsheet CSR — Kelompok 1 yang dihack akbar</footer>
     </main>
   );
 }
